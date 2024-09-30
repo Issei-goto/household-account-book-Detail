@@ -27,8 +27,7 @@
 ### ■バックエンド
 　開発言語：Java  
 　Framework：Spring Boot  
-　Database：Firebase  
-　　※現実的ではないので、DBはPostgre or Oracle  
+　Database：Postgre or Oracle  
   
 ### ■開発環境
 　フロントエンド：VSCode  
